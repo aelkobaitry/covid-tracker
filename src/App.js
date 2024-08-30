@@ -16,6 +16,7 @@ import Map from "./Map";
 import "leaflet/dist/leaflet.css";
 
 const App = () => {
+  // setup states
   const [country, setInputCountry] = useState("worldwide");
   const [countryInfo, setCountryInfo] = useState({});
   const [countries, setCountries] = useState([]);

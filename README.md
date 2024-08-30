@@ -1,5 +1,9 @@
 # COVID-19 Tracker
 
+## Contact
+
+Adam Elkobaitry: elkobaitry.a[at]northeastern[dot]edu
+
 ## Available Scripts
 
 In the project directory, you can run:
